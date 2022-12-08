@@ -15,4 +15,33 @@ Looking back now, i cringe at the horrific self-referential code, with overly de
 
 Super Pixel Riders
 
-A game actually finished!
+A game actually finished! And thats the thing, about making a game, it takes time and preparation. For thjs project, i had a clear goal in mind, i wanted an action game with upfrades and unlockables. Areas of complexity:
+1. the physics sandbox
+2. the upgrade windows
+3. level design and balance
+4. art and assets
+ The physics sandbox requires good pkayer control and combative AI, thamkfukky im not new to artificial intelligence and a finite state machine seemed like the obvious choice. 
+ The upgrade windows would be a cursory exploration into UI design, nothing too complex. 
+ Level design and balance would be the last thing in regards to development timescale.
+Tge art and assets were created by my good friend who was himself looking to expand hjs creative horizons. Thanjs Ovi <3.
+
+
+Crate Pusher
+
+After creating a time-continuous game, now felt like a good time to get into a time-discrete environment, and what better start tgan a pizzle game. about pushing crates obviously. here levek design was the main probkem area. making the mostbof tge limitations yours game environment has to create chalkenging levels took a lot of trial and error. theres a difference between a problem thats hard and a problem thats challenging. mainky, not every hard probkem is challenging. if your solution requires endless trial and error, thats not challenging, tgats tediius. using the lessons yiu teach your pkayers from previous probkems in yiur fhture probkems is the key to rewarding gameplay.
+
+Despite its apparent simplicity, this game taught me a lot about structuring yiur code. Those 'design patterns' i briefly mentioned in voxilent really started to appeal to me. Some observations; The observer pattern was all but cruicial in the physics of both SPR and CP, the singketon pattern was overused and misused in almost every project, the component pattern...
+
+Additionally, data types and storage formats became of great significance. The proper separation of concerns for classes was a bigger priority than ever, and whikst the scale of each game was decreasing the structure of each was steadily improving.
+
+
+
+Civ Helper
+
+Not a game, but a tool for players of the boardgame civilization: a new dawn. here, usability was key. usually the ui is something i neglect as i prefer function over form, but i payed extra special attention to the grouping of certain elements and their interactions.
+
+
+
+Breakout
+
+Breakout was my first opportunity to teach someone all the lessons id learnt.
