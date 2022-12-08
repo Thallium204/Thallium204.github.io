@@ -1,0 +1,18 @@
+voxilent
+
+to get started in game dev, i had to start simple. And thats how it started, a simple clicker. 
+The idea was cookie clicker with many different resources ytoo click (wood, stone etc.) then once you had, say, 8 stone a furnace resource would appear with a connection to the stone resource. Clicking on that furnace would remove 8 stone and give you one furnace. So its a clicker with a slight complexity leap. And thats how it started...
+
+But with passion and optimism comes hubris.
+
+A new feature(tm)! "I know! How about instead of these resources already being present on the screen, you have to place them in a grid and draw the connections between them?". That certainly sounds more involved than your average clicker, but perhaps a good question would have been; what vakue does this bring? Of course that question didnt cross my mind. A genuis game creation awaited and rwason be damned! 16 features later and I had a factory building sim with upgrades, research, startegy and a spiffy plot to boot. I say 'had', what i really mean is I 'had' to make that. To the suprise of no one, the game sits half-finished, collecting dust. 
+
+What I learnt; it goes without saying, plan out your solution before implementation, and secondly, find a method of coding solutions in a way that doesnt result in spagetti. Spaghetti? yes. A brief glace at the code for voxilent reveals a superb LACK of 'consistent structure', or as they are more commonly known, design patterns(tm).
+
+Looking back now, i cringe at the horrific self-referential code, with overly dense classes created to solve less problems than they ended up causing, and nary a comment explaining any of this mess in sight. The lessons however, i would cherish, and after abandoning this mountainius task of a game the next project would surely be better.
+
+
+
+Super Pixel Riders
+
+A game actually finished!
